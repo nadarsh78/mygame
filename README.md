@@ -1,1 +1,1 @@
-# mygame
+# ghost-runner-final
